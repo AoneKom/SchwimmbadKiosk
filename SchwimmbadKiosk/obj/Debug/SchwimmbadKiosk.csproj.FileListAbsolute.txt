@@ -1,0 +1,21 @@
+C:\Users\aones\Desktop\Новая папка\SchwimmbadKiosk\SchwimmbadKiosk\bin\Debug\SchwimmbadKiosk.exe.config
+C:\Users\aones\Desktop\Новая папка\SchwimmbadKiosk\SchwimmbadKiosk\bin\Debug\SchwimmbadKiosk.exe
+C:\Users\aones\Desktop\Новая папка\SchwimmbadKiosk\SchwimmbadKiosk\bin\Debug\SchwimmbadKiosk.pdb
+C:\Users\aones\Desktop\Новая папка\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.csproj.AssemblyReference.cache
+C:\Users\aones\Desktop\Новая папка\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.csproj.CoreCompileInputs.cache
+C:\Users\aones\Desktop\Новая папка\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.exe
+C:\Users\aones\Desktop\Новая папка\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.pdb
+C:\Users\aones\Desktop\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\bin\Debug\SchwimmbadKiosk.exe.config
+C:\Users\aones\Desktop\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\bin\Debug\SchwimmbadKiosk.exe
+C:\Users\aones\Desktop\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\bin\Debug\SchwimmbadKiosk.pdb
+C:\Users\aones\Desktop\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.csproj.AssemblyReference.cache
+C:\Users\aones\Desktop\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.csproj.CoreCompileInputs.cache
+C:\Users\aones\Desktop\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.exe
+C:\Users\aones\Desktop\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.pdb
+C:\Users\aones\Desktop\projekt_hausarbeit\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\bin\Debug\SchwimmbadKiosk.exe.config
+C:\Users\aones\Desktop\projekt_hausarbeit\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\bin\Debug\SchwimmbadKiosk.exe
+C:\Users\aones\Desktop\projekt_hausarbeit\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\bin\Debug\SchwimmbadKiosk.pdb
+C:\Users\aones\Desktop\projekt_hausarbeit\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.csproj.AssemblyReference.cache
+C:\Users\aones\Desktop\projekt_hausarbeit\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.csproj.CoreCompileInputs.cache
+C:\Users\aones\Desktop\projekt_hausarbeit\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.exe
+C:\Users\aones\Desktop\projekt_hausarbeit\Schwimmbad - Gastronomieverwaltung\SchwimmbadKiosk\SchwimmbadKiosk\obj\Debug\SchwimmbadKiosk.pdb
